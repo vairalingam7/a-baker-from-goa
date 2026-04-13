@@ -50,7 +50,7 @@
 
 <div class="container">
 
-    <img src="" 
+    <img src="The baker from Goa explained.png" 
          alt="">
 
 </div>
